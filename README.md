@@ -1,5 +1,5 @@
 # AratiKale
-Hii, I'm Arati Kale
+👋 Hii, I'm Arati Kale
 
 🚀 Full Stack Java Developer | Crafting Scalable Web Applications | Open-Source Enthusiast 
 
@@ -17,6 +17,7 @@ I am also skilled in HTML, CSS, Bootstrap, TypeScript, JavaScript, Angular & Pos
 I am good in Data Structure and Algorithms.
 
 I learned a lot from the Open-Source community.
+
 
 
 
