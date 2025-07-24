@@ -3,6 +3,10 @@
 
 🚀 Full Stack Java Developer | Crafting Scalable Web Applications | Open-Source Enthusiast 
 
+💡 A motivated fresher with a passion for building full-stack web apps using Java, Spring Boot, Hibernate, MySQL, and Angular.  
+🌱 Currently learning **Spring Microservices**, **Docker**, and **Cloud (Azure)**.  
+🛠️ Always curious about open-source and solving real-world problems through code.
+
 🎓 About  Me 
 
 I'm a passionate Full Stack Java Developer focused on crafting scalable, maintainable web applications.
